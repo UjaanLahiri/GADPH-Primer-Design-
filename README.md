@@ -70,9 +70,9 @@ Files Included :
 
 Author : 
 
-- **UJAAN LAHIRI**
-- B.Tech Biotechnology (2nd Semester)
-- Shoolini University of Biotechnology and Management Sciences
-- Intern - EYM Life Sciences
+**UJAAN LAHIRI**  
+B.Tech Biotechnology (2nd Semester)  
+Shoolini University of Biotechnology and Management Sciences  
+Intern - EYM Life Sciences
 
 
