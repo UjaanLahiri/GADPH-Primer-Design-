@@ -1,7 +1,7 @@
 # GADPH-Primer-Design-
 In-silico design and specificity analysis of GADPH PCR primers using NCBI Primer-BLAST
 
-Activity 1 : Virtual Design and Specificity Testing of GAPDH PCR Primers
+Activity  : Virtual Design and Specificity Testing of GAPDH PCR Primers
 
 Objective :
 
