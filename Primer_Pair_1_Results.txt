@@ -1,0 +1,41 @@
+Activity: Primer Designing using NCBI Primer-BLAST
+
+Gene Name: GAPDH
+Organism: Homo sapiens
+Gene ID: 2597
+mRNA Accession: NM_002046.7
+
+Selected Primer Pair: Primer Pair 1
+
+Forward Primer (5'–3'):
+TCGGAGTCAACGGATTTGGT
+
+Reverse Primer (5'–3'):
+TTCCCGTTCTCAGCCTTGAC
+
+Primer Length:
+Forward: 20 bp
+Reverse: 20 bp
+
+Melting Temperature (Tm):
+Forward: 59.32 °C
+Reverse: 59.97 °C
+
+GC Content:
+Forward: 50%
+Reverse: 55%
+
+Self-Complementarity:
+Forward: 3.0
+Reverse: 3.0
+
+3′ Self-Complementarity:
+Forward: 1.0
+Reverse: 1.0
+
+Expected PCR Product Size:
+181 bp
+
+Remarks:  
+This primer pair was selected based on optimal Tm, GC content,
+low self-complementarity and high specificity for the human GAPDH gene.
