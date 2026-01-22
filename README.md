@@ -75,4 +75,7 @@ B.Tech Biotechnology (2nd Semester)
 Shoolini University of Biotechnology and Management Sciences  
 Intern - EYM Life Sciences
 
+This activity was performed as part of the EYM Life Sciences Internship Program.
+
+
 
